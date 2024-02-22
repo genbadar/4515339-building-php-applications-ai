@@ -1,12 +1,6 @@
 <?php 
 require 'Person.php';
 
-/**
- * Sorts an array of people objects by age and name.
- *
- * @param array $people The array of people objects to be sorted.
- * @return array The sorted array of people objects.
- */
 function sort_people_by_age_and_name($people) {
 	usort($people, function($a, $b) {
 		// Compare by age first
