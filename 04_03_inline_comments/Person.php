@@ -56,9 +56,10 @@ class Person {
 	 */
 	public function get_age() {
 		//Calculate age
-		$dob = new Datetime($this->dob);
-		$today = new Datetime(date('Y-m-d'));
-		$age = $today->diff($dob);
+
+		$dob = new Datetime($this->dob); // Create a new DateTime object using the date of birth.
+		$today = new Datetime(date('Y-m-d')); // Create a new DateTime object for the current date.
+		$age = $today->diff($dob); // Calculate the difference between the current date and the date of birth to get the age.
 		
 		//Return Age in Years
 		return $age->y;
