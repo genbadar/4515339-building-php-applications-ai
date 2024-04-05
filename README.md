@@ -16,9 +16,6 @@ Course Developer, Founder of Creator Courses
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/joe-casabona?u=104).
 
-                            
-
-Check out my other courses on [LinkedIn Learning]().
 
 [lil-course-url]: https://www.linkedin.com/learning/building-php-applications-with-generative-ai
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFNS19neoqiYw/learning-public-crop_675_1200/0/1712337853048?e=2147483647&v=beta&t=R5oejNO06eT0qVJGHr7GoeQ3g6pN5q13LBz1IUXGO28
